@@ -60,7 +60,7 @@ export default function PricingCard() {
                 </p>
                 <div className="flex items-baseline justify-center gap-2">
                   <span className="text-5xl md:text-7xl font-black text-accent-orange">
-                    849
+                    799
                   </span>
                   <span className="text-2xl md:text-3xl font-bold text-white">
                     PLN
